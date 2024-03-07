@@ -9,4 +9,4 @@
 - Crear archivo .env con las variables definidas en .env.example
 - "npm run dev" en terminal
 
-![transfers page](https://res-console.cloudinary.com/dupcvyc8l/thumbnails/v1/image/upload/v1709812431/aW1hZ2VuXzIwMjQtMDMtMDdfMDg1MzQ3MjU0X2FqNWV5dA==/as_is)
+![transfers page](https://res.cloudinary.com/dupcvyc8l/image/upload/v1709812431/imagen_2024-03-07_085347254_aj5eyt.png)
